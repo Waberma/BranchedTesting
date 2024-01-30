@@ -23,7 +23,7 @@
       </font>
      </property>
      <property name="text">
-      <string>Main Branch</string>
+      <string>Second Branch</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>
