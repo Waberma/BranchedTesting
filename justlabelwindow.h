@@ -15,6 +15,9 @@ public:
     JustLabelWindow(QWidget *parent = nullptr);
     ~JustLabelWindow();
 
+private slots:
+    void on_ChangeBtn_clicked();
+
 private:
     Ui::JustLabelWindow *ui;
 };

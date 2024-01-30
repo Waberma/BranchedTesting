@@ -13,3 +13,8 @@ JustLabelWindow::~JustLabelWindow()
     delete ui;
 }
 
+
+void JustLabelWindow::on_ChangeBtn_clicked()
+{
+    ui->label->setText("TextChangeFromSecondBranch");
+}

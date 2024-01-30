@@ -30,6 +30,18 @@
      </property>
     </widget>
    </item>
+   <item>
+    <widget class="QPushButton" name="ChangeBtn">
+     <property name="font">
+      <font>
+       <pointsize>14</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>Change</string>
+     </property>
+    </widget>
+   </item>
   </layout>
  </widget>
  <resources/>
